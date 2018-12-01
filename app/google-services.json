@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "743293816731",
+    "firebase_url": "https://fir-realtimedatabasedemo-5d48b.firebaseio.com",
+    "project_id": "fir-realtimedatabasedemo-5d48b",
+    "storage_bucket": "fir-realtimedatabasedemo-5d48b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743293816731:android:394c4af0fce0a3c0",
+        "android_client_info": {
+          "package_name": "com.casuga.mcspenzer.exam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743293816731-obks79hq5uqb4pcim8nregtqkqh6fteq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.casuga.mcspenzer.exam2",
+            "certificate_hash": "a9e54cd0951810f63ec2b214035387ad3846b0fd"
+          }
+        },
+        {
+          "client_id": "743293816731-jc4mq7edc4s4ked5fm7jpoaatd9al9t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjTK6ui4UVxJJ0YwTLsIeOX7YbYQpJZEs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743293816731-jc4mq7edc4s4ked5fm7jpoaatd9al9t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743293816731:android:c93170dbd41f4af1",
+        "android_client_info": {
+          "package_name": "com.casuga.mcspenzer.firebaserealtimedatabasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743293816731-gh3833gutap2nkk8h549ap1dk711hcl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.casuga.mcspenzer.firebaserealtimedatabasedemo",
+            "certificate_hash": "a9e54cd0951810f63ec2b214035387ad3846b0fd"
+          }
+        },
+        {
+          "client_id": "743293816731-jc4mq7edc4s4ked5fm7jpoaatd9al9t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjTK6ui4UVxJJ0YwTLsIeOX7YbYQpJZEs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743293816731-jc4mq7edc4s4ked5fm7jpoaatd9al9t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
